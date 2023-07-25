@@ -24,8 +24,8 @@ const Home: NextPage = () => {
         }}
       />
       <Head>
-        <title>Do or Drink</title>
-        <meta name="description" content="Play Truth or Drink online, a fun and ad-free drinking game. Choose from different game modes: Normal, Party, Dirty, Dares, and Mix Modes." />
+        <title>Do or Drink - Free & Unlimited Game</title>
+        <meta name="description" content="Play Do or Drink online, a fun and ad-free drinking game. Choose from different game modes: Normal, Funny, Spicy, Puzzles, and Mixed." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
