@@ -161,7 +161,7 @@ const Game: NextPage = () => {
         <Link href='/'> 
           <div className="cursor-pointer">
             <div className="select-none text-4xl text-header font-semibold mx-auto text-center align-middle pt-4 pb-2">
-              DO...... <span className="text-xl align-middle">O R</span> DRINK
+              DO..... <span className="text-xl align-middle">O R</span> DRINK
             </div>
           
             <div className={[gradient, "select-none rounded-lg text-center text-white font-bold max-w-fit px-4 m-auto"].join(" ")}>
