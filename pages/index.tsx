@@ -11,7 +11,7 @@ const Home: NextPage = () => {
 
   return (
     <div className="h-full bg-black">
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-W9M7TVKHRZ"/>
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-4VZHMD1X2V"/>
       <Script
         dangerouslySetInnerHTML={{
           __html: `
@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-W9M7TVKHRZ');
+            gtag('config', 'G-4VZHMD1X2V');
           `,
         }}
       />
