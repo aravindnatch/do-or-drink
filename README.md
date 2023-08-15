@@ -1,4 +1,4 @@
-# Truth or Drink
+# Do or Drink
 
 A free, online version of the card game built with Next.js
 
@@ -12,10 +12,10 @@ Users can alter the question bank by forcing a specific question to appear at a 
 
 ```bash
 # clone the repository
-git clone https://github.com/aravindnatch/truth-or-drink.git
+git clone https://github.com/aravindnatch/do-or-drink.git
 
 # install the dependencies
-cd truth-or-drink && npm install
+cd do-or-drink && npm install
 
 # start the development server
 npm run dev
